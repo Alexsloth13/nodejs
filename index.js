@@ -7,4 +7,4 @@ import _ from "lodash";
 // capitalize делает первую букву заглавной
 //console.log(_.capitalize("hello"));
 
-console.log(_.last(['one', 'two']));
+console.log(_.last(["one", "two"]));
